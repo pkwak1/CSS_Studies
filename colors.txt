@@ -1,0 +1,6 @@
+Use hexadecimal
+rgb(), function
+rgba(), function
+takes in numbers for r g and b
+rgba takes in transparency as last input
+(alpha) which ranges from 0 to 1, decimals
